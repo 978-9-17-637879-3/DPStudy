@@ -4,4 +4,4 @@ project(DPStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(DPStudy
-        "Counting Bits/338_counting-bits.cpp")
+        "done/N-th Tribonacci Number/1236_n-th-tribonacci-number.cpp")
