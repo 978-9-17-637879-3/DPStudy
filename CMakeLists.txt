@@ -4,4 +4,4 @@ project(DPStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(DPStudy
-        "done/Divisor Game/1086_divisor-game.cpp")
+        "done/Min Cost Climbing Stairs/747_min-cost-climbing-stairs.cpp")
