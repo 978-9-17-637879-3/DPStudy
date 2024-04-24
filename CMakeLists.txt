@@ -4,4 +4,4 @@ project(DPStudy)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(DPStudy
-        "Unique Paths/62_unique-paths.cpp")
+        "Counting Bits/338_counting-bits.cpp")
