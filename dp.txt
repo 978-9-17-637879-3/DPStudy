@@ -1,10 +1,10 @@
-https://leetcode.com/problems/n-th-tribonacci-number/
-https://leetcode.com/problems/count-numbers-with-unique-digits-ii
-https://leetcode.com/problems/counting-bits
-https://leetcode.com/problems/pascals-triangle
-https://leetcode.com/problems/fibonacci-number
-https://leetcode.com/problems/divisor-game
-https://leetcode.com/problems/min-cost-climbing-stairs
+https://leetcode.com/problems/n-th-tribonacci-number/#done
+https://leetcode.com/problems/count-numbers-with-unique-digits-ii#done
+https://leetcode.com/problems/counting-bits#done
+https://leetcode.com/problems/pascals-triangle#done
+https://leetcode.com/problems/fibonacci-number#done
+https://leetcode.com/problems/divisor-game#done
+https://leetcode.com/problems/min-cost-climbing-stairs#done
 https://leetcode.com/problems/pascals-triangle-ii
 https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i
 https://leetcode.com/problems/n-th-tribonacci-number
