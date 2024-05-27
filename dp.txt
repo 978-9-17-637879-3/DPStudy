@@ -391,7 +391,7 @@ https://leetcode.com/problems/minimum-window-subsequence
 https://leetcode.com/problems/distinct-subsequences-ii
 https://leetcode.com/problems/minimum-cost-to-merge-stones
 https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings
-https://leetcode.com/problems/student-attendance-record-ii
+https://leetcode.com/problems/student-attendance-record-ii#done
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
 https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k
 https://leetcode.com/problems/numbers-at-most-n-given-digit-set
